@@ -1,0 +1,15 @@
+{
+  "predictions": [
+    {
+      "class": "Returning",
+      "scores": {
+        "New": 0.15,
+        "Returning": 0.68,
+        "VIP": 0.17
+      },
+      "predicted_class": "Returning"
+    }
+  ],
+  "deployed_model_id": "5883856705892122624",
+  "model_version_id": "1"
+}

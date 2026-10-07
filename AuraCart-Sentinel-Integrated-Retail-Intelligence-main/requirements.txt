@@ -1,0 +1,13 @@
+jupyter
+ipykernel
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlflow
+joblib
+google-cloud-aiplatform
+google-cloud-storage
+datasets

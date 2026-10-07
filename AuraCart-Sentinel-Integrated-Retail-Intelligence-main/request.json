@@ -1,0 +1,26 @@
+{
+  "instances": [
+    {
+      "quantity": 3,
+      "order_date_month": 6,
+      "order_date_day": 15,
+      "order_date_hour": 14,
+      "order_date_dow": 2,
+      "shipping_date_month": 6,
+      "shipping_date_day": 18,
+      "shipping_date_hour": 10,
+      "shipping_date_dow": 5,
+      "days_to_ship": 3,
+      "category": "Electronics",
+      "payment_method": "Credit Card",
+      "device_type": "Mobile",
+      "channel": "Organic",
+      "orders_per_customer": 5,
+      "customer_avg_price": 125.50,
+      "customer_total_spend": 627.50,
+      "customer_avg_quantity": 2.5,
+      "customer_category_diversity": 4,
+      "customer_product_diversity": 8
+    }
+  ]
+}
